@@ -39,3 +39,28 @@ This dataset is suitable for:
 
 ## Citation
 If you use this dataset in your research, please cite the repository and the follwing paper.
+
+**BibTeX**
+
+```bibtex
+@INPROCEEDINGS{7314178,
+  author={Biadgligne, Yohannes and Arandjelović, Ognjen},
+  booktitle={2015 International Conference on Systems, Signals and Image Processing (IWSSIP)}, 
+  title={Face filtering — Insights from real-world data}, 
+  year={2015},
+  volume={},
+  number={},
+  pages={65-68},
+  keywords={Lighting;Face recognition;Cameras;Face;Histograms;Context;Discrete cosine transforms;Recognition;Image Processing;Quotient;Filter},
+  doi={10.1109/IWSSIP.2015.7314178}}
+```
+
+**APA Style**
+
+```text
+Biadgligne, Y., & Arandjelović, O. (2015, September). Face filtering—Insights from real-world data. In 2015 International Conference on Systems, Signals and Image Processing (IWSSIP) (pp. 65-68). IEEE.
+```
+
+
+
+
