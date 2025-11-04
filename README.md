@@ -23,12 +23,11 @@ The dataset was constructed by extracting frames from a variety of Amharic movie
 TV series were particularly valuable due to their wide range of scenes, lighting conditions, and facial appearances for the same character, making them ideal for building an unconstrained face recognition benchmark.
 
 ## Key Features
-
-✅ First unconstrained Ethiopian face dataset
-✅ 450 images, 45 subjects (10 images per subject)
-✅ Real-world variability (illumination, pose, background, occlusion, expression)
-✅ Useful for face recognition, domain adaptation, and fairness studies
-✅ Captures underrepresented facial morphology often missing in global datasets
+  * First unconstrained Ethiopian face dataset
+  * 450 images, 45 subjects (10 images per subject)
+  * Real-world variability (illumination, pose, background, occlusion, expression)
+  * Useful for face recognition, domain adaptation, and fairness studies
+  * Captures underrepresented facial morphology often missing in global datasets
 
 
 ## Intended Use
